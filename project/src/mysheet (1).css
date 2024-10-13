@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+margin:50px 0px;
+padding: auto;:0px;
+background-image: url(istockphoto-1293325404-612x612.jpg);
+background-repeat:no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+table,th,td{
+    margin-left: 35%;
+    border: 4px solid bisque;
+    border-collapse:collapse;
+    padding: 36px;
+    table-layout: auto;
+    background-color: black;
+    font-size: 100%;
+    color: blue;
+}
+caption{
+    font-size: 150%;
+    font-weight:bold;
+    color: chocolate;
+}
+ul {
+list-style-type: disc;
+}
+p{
+
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 200;
+    color: darkblue;
+}
+h1{
+    font-size: 300%;
+    font-family: 'Times New Roman','Times New Roman', Times, serif;
+    color: darkmagenta;
+}
+h2{
+    font-size: 200;
+    color: darksalmon;
+}
+label{
+    color: darkseagreen;
+}
+form{
+    background-color: darkslateblue;
+    display: inline-block;
+}
+
